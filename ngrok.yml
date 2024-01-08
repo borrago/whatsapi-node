@@ -1,0 +1,9 @@
+version: 2
+authtoken: 2Xqtq39QWv30k9K0PjCznXqnC5f_4E62s6C7imBVR7pUEKM7j
+web_addr: 0.0.0.0:4040
+tunnels:
+  web:
+    proto: http
+    addr: app:3000
+    #domain: whatssync.ngrok-free.app #adiciona dominio
+    
